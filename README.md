@@ -8,5 +8,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nileshthakur2003&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Nileshthakur2003&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+## Featured Repositories :- 
+
+
+
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Nileshthakur2003&repo=dsa_cpp)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Nileshthakur2003&repo=MathsExplorerv1)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Nileshthakur2003&repo=CelestialOrbs)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Nileshthakur2003&repo=dsa_cpp)
 
