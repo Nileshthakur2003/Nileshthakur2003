@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a passionate Full-Stack Developer skilled in frontend (React.js, Tailwind CSS, Bootstrap), backend (Node.js, Express, encryption), and databases (MongoDB, PostgreSQL, MySQL). I also excel at DSA and coding in C++ and C.
 <!--
 **Nileshthakur2003/Nileshthakur2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
